@@ -54,18 +54,19 @@ export function AboutPsychologist() {
 
             <div className="space-y-5 text-base leading-relaxed text-stone-600 md:space-y-6 md:text-lg">
               <p>
-                Psicóloga clínica com escuta acolhedora e atenção especial a
-                jovens adultos que vivem ansiedade, sobrecarga emocional,
-                transições de vida e dificuldades nos relacionamentos.
+                Durante a graduação tive experiência com: Neuropsicologia,
+                psicologia organizacional, atuação no desenvolvimento de crianças
+                neurodivergentes, psicologia clínica e psicologia hospitalar.
               </p>
               <p>
-                O objetivo do atendimento é oferecer um espaço seguro para
-                organizar sentimentos, compreender padrões e iniciar um processo
-                terapêutico com mais clareza desde a primeira conversa.
+                Atualmente, atuo em psicologia clínica e estou me especializando
+                na abordagem humanista centrada na pessoa e na abordagem
+                sistêmica. Também atuo em psicologia hospitalar.
               </p>
               <p>
-                O acompanhamento pode acontecer de forma online ou presencial,
-                respeitando a rotina, a necessidade e o momento de cada pessoa.
+                Estou sempre aberta a novas oportunidades e vínculos, buscando
+                oferecer um espaço seguro para organizar sentimentos,
+                compreender padrões e iniciar um processo terapêutico com clareza.
               </p>
               <p className="rounded-r-lg border-l-4 border-[var(--brand-500)] bg-stone-100/70 py-2 pl-4 font-medium italic text-stone-800">
                 &quot;Buscar ajuda psicológica também pode ser um gesto de cuidado,
